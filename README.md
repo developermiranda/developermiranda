@@ -40,8 +40,8 @@ Here are some ideas to get you started:
   <a href="https://api.whatsapp.com/send?phone=5596981136132" alt="WhatsApp">
   <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5596981136132"/></a>
   
-  <a href="https://instagram/d4n13l.m1r4nd4" alt="Instagram">
-  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://instagram/d4n13l.m1r4nd4"/></a>
+  <a href="https://instagram.com/d4n13l.m1r4nd4" alt="Instagram">
+  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://instagram.com/d4n13l.m1r4nd4"/></a>
   
   <a href="https://www.linkedin.com/in/developermiranda" alt="Linkedin">
   <img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/developermiranda" /></a>
